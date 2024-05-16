@@ -1,3 +1,4 @@
+
 # ERP For Manufacturing
 
 A comprehensive ERP system designed for a mid-sized manufacturing company to streamline operations across production, inventory management, sales, and finance.
@@ -104,5 +105,33 @@ This ERP system project showcases the ability to deliver a high-quality, scalabl
 ### Installation
 
 1. Clone the repository:
-   ```sh
+   \`\`\`sh
    git clone https://github.com/salehalbalkhi/ERP-For-Manufacturing.git
+   \`\`\`
+2. Navigate to the project directory:
+   \`\`\`sh
+   cd ERP-For-Manufacturing
+   \`\`\`
+3. Build and run the Docker containers:
+   \`\`\`sh
+   docker-compose up --build
+   \`\`\`
+
+## Usage
+
+1. Open your browser and navigate to \`http://localhost:5000\`.
+2. Log in using the default credentials:
+   - Username: \`admin\`
+   - Password: \`password\`
+
+## Contributing
+
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For more information, please contact Saleh Al-Balkhi at [info@salehalbalkhi.com](mailto:info@salehalbalkhi.com).
