@@ -10,7 +10,7 @@ We welcome contributions to the ERP For Manufacturing project. By participating 
 1. Fork the repository by clicking the "Fork" button on the top right corner of the repository page.
 2. Clone the forked repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/ERP-For-Manufacturing.git
+   git clone https://github.com/salehalbalkhi/ERP-For-Manufacturing.git
    ```
 3. Navigate to the project directory:
    ```sh
