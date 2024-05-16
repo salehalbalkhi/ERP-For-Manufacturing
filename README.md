@@ -105,24 +105,24 @@ This ERP system project showcases the ability to deliver a high-quality, scalabl
 ### Installation
 
 1. Clone the repository:
-   \`\`\`sh
+   ```sh
    git clone https://github.com/salehalbalkhi/ERP-For-Manufacturing.git
-   \`\`\`
+   ```
 2. Navigate to the project directory:
-   \`\`\`sh
+   ```sh
    cd ERP-For-Manufacturing
-   \`\`\`
+   ```
 3. Build and run the Docker containers:
-   \`\`\`sh
+   ```sh
    docker-compose up --build
-   \`\`\`
+   ```
 
 ## Usage
 
-1. Open your browser and navigate to \`http://localhost:5000\`.
+1. Open your browser and navigate to `http://localhost:5000`.
 2. Log in using the default credentials:
-   - Username: \`admin\`
-   - Password: \`password\`
+   - Username: `admin`
+   - Password: `password`
 
 ## Contributing
 
