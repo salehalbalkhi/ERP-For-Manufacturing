@@ -105,4 +105,4 @@ This ERP system project showcases the ability to deliver a high-quality, scalabl
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ERP-For-Manufacturing.git
+   git clone https://github.com/salehalbalkhi/ERP-For-Manufacturing.git
